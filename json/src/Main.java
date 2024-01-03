@@ -9,9 +9,9 @@ class JsonEncodeDemo {
 
                 obj.put("Imię", "Sebastian");
               obj.put("Nazwisko", "Siwicki");
-              obj.put("Wiek", new Integer(17));
+              obj.put("Wiek", (17));
               obj.put("Klasa", "4TD");
-              obj.put("Nr_w_dzienniku", new Integer(20));
+              obj.put("Nr_w_dzienniku", (20));
               obj.put("Adres", "ul. Szmaragdowa 2");
               obj.put("Miejscowość", "Gorzów Wielkopolski");
               obj.put("Telefon", "123-456-789");
